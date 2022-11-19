@@ -1,0 +1,8 @@
+C:\Users\scott\Desktop\Kode\newBob\newBob\bin\Debug\newBob.exe.config
+C:\Users\scott\Desktop\Kode\newBob\newBob\bin\Debug\newBob.exe
+C:\Users\scott\Desktop\Kode\newBob\newBob\bin\Debug\newBob.pdb
+C:\Users\scott\Desktop\Kode\newBob\newBob\obj\Debug\newBob.csproj.AssemblyReference.cache
+C:\Users\scott\Desktop\Kode\newBob\newBob\obj\Debug\newBob.csproj.SuggestedBindingRedirects.cache
+C:\Users\scott\Desktop\Kode\newBob\newBob\obj\Debug\newBob.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\Kode\newBob\newBob\obj\Debug\newBob.exe
+C:\Users\scott\Desktop\Kode\newBob\newBob\obj\Debug\newBob.pdb
